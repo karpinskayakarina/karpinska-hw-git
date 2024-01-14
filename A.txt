@@ -1,0 +1,4 @@
+
+Line from develop branch
+Line from feature branch
+Some additional changes from remote
